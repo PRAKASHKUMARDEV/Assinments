@@ -29,7 +29,8 @@ public class comman {
 		WebDriverManager.chromedriver().setup();
 		driver= new ChromeDriver();
 		System.out.println("hi");
-		System.out.println("ye");
+		System.out.println("fourth");
+		System.out.println("third");
 		return driver;
 	}
 	
